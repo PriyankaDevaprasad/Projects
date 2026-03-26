@@ -30,11 +30,15 @@ Cryptocurrency is often compared with traditional assets like oil and stock indi
 This project builds a cross-market SQL-powered analytics platform where we compare:
 Top cryptocurrencies (Bitcoin, Ethereum, etc.)
 
-
 Oil (WTI benchmark)
-
 
 Global stock indices (S&P 500, NASDAQ, NIFTY)
 
-
 The goal is to find patterns, correlations, and relative performance between these markets in the past few years.
+
+Tools & Technologies
+Python
+Pandas
+NumPy
+SQL lite
+Streamlit
